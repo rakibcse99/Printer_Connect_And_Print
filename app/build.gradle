@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.printerconnectandprint'
+    namespace 'com.rakib.printerconnectandprint'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.printerconnectandprint"
+        applicationId "com.rakib.printerconnectandprint"
         minSdk 24
         targetSdk 33
         versionCode 1
